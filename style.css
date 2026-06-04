@@ -1,0 +1,761 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*{
+    background-color: #0b0b0b;
+}
+.parent-1{
+    text-align: center;
+}
+.child-1 h1{
+    text-transform: capitalize;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.child-1 p {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.Parent-2{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.child-2 h2{
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.images-Parent{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;  
+}
+.child-3 img{
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px; 
+    width: 200px;
+    height: 200px;
+}
+.Parent-4{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.child-4 h2{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.information-Parent{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: #00000080;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+.info-child h3{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+    
+}
+.info-child h4{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.info-child p{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.card-2{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: #00000080;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+
+}
+.card-info h3{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+ .card-info h4{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.card-info p{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.card-3{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: #00000080;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+.card-3-info h3{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.card-3-info h4{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.card-3-info p{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.btn-1{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+}
+.buy-now{
+    text-align: center;
+    background-color: #FFD700;
+    color:#000000;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: #00000080;
+}
+.buy-now:hover{
+    background-color: #FFc300;
+    box-shadow: #00000080;
+}
+.main-heading{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.fea-heading h2{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.feature-Parent{
+    text-align: center;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px ;
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    max-width: 260px;
+    min-width: 260px;
+    box-shadow: #00000080;
+}
+.feature-child h3{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.feature-child img{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    width: 30%;
+    height: 30%;
+}
+.feature-child h4{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.feature-child p{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.battery-Parent{
+    text-align: center;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    max-width: 260px;
+    min-width: 260px;
+    box-shadow: #00000080;
+}
+.battery-child h3{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.battery-child img{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    min-width: 30%;
+    max-width: 30%;
+    
+}
+.battery-child h4{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.battery-child p{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.display-Parent{
+    text-align: center;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    max-width: 260px;
+    min-width: 260px;
+    box-shadow: #00000080;
+}
+.display-child h3{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFD700;
+}
+.display-child img{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    width: 15%;
+    height: 15%;
+}
+.display-child h4{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;   
+}
+.display-child p{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.specific-Parent{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+.specific-child h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#FFc300;
+}
+.specific-child p{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.RAM-Parent{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    box-shadow:#00000080;
+    padding: 5px 5px 5px 5px;
+    margin: 20px 20px 35px 20px;
+    border-radius: 5px;
+    max-width: 175px;
+    min-width: 175px;
+}
+.RAM-child h3{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#FFc300;
+    text-transform: uppercase;
+}
+.RAM-child img{
+    padding: 10px 10px 10px 10px;
+    max-width: 20%;
+    min-width: 20%;
+}
+.RAM-child h4{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#fff;
+    text-transform: capitalize;
+}
+.RAM-child p{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    font-size: small;
+    word-spacing: 2px;
+    color: #fff;
+}
+.storage-Parent{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    box-shadow:#00000080;
+    padding: 5px 5px 5px 5px;
+    margin: 20px 20px 35px 20px;
+    border-radius: 5px;
+    max-width: 175px;
+    min-width: 175px;
+}
+.storage-child h3{
+   padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#FFc300;
+    text-transform: uppercase;
+}
+.storage-child img{
+    padding: 10px 10px 10px 10px;
+   max-width: 20%;
+    min-width: 20%;
+}
+.storage-child h4{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#fff;
+    text-transform: capitalize;
+}
+.storage-child p{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    font-size: small;
+    word-spacing: 2px;
+    color: #fff;
+}
+.processor-1-Parent{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    box-shadow:#00000080;
+    padding: 5px 5px 5px 5px;
+    margin: 20px 20px 35px 20px;
+    border-radius: 5px;
+    max-width: 175px;
+    min-width: 175px;
+}
+.processor-2-child h3{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#FFc300;
+    text-transform: uppercase;
+}
+.processor-2-child img{
+    padding: 10px 10px 10px 10px;
+   max-width: 20%;
+    min-width: 20%;
+}
+.processor-2-child h4{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#fff;
+    text-transform: capitalize;
+}
+.processor-2-child p{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    font-size: small;
+    word-spacing: 2px;
+    color: #fff;
+}
+.battery-50-Parent{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #2a2a2a;
+    box-shadow:#00000080;
+    padding: 5px 5px 5px 5px;
+    margin: 20px 20px 35px 20px;
+    border-radius: 5px;
+    max-width: 175px;    
+    min-width: 175px;
+}
+.battery-40-child h3{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #FFc300;
+    text-transform: uppercase;
+}
+.battery-40-child img{
+    padding: 10px 10px 10px 10px;
+   max-width: 20%;
+    min-width: 20%;
+}
+.battery-40-child h4{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color:#fff;
+    text-transform: capitalize;
+}
+.battery-40-child p{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+    font-size: small;
+    word-spacing: 2px;
+    color: #fff;
+}
+.Reviews-heading-Parent{
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+.Reviews-text-child h2{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    color:#FFc300;
+}
+.Reviews-text-child p{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    word-spacing: 2px;
+    color: #fff;
+}
+.Reviews-text-child h5{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: light;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    color: #fff;
+}
+.Reviews1-Parent{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 50px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    border: 1px solid #2a2a2a;
+    max-width: 225px;
+    min-width: 225px;
+}
+.Reviews1-child h4{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    color: #FFc300;
+}
+.Reviews1-child h3{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.Reviews1-child p{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    word-spacing: 2px;
+    font-weight: light;
+    color: #fff;
+}
+.Reviews2-Parent{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 50px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    max-width: 225px;
+    min-width: 225px;
+}
+.Reviews2-child h4{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    color: #FFc300;
+}
+.Reviews2-child h3{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.Reviews2-child p{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 2px;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.Reviews3-Parent{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 50px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #2a2a2a;
+    border-radius: 5px;
+    max-width: 225px;
+    min-width: 225px;
+}
+.Reviews3-child h4{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    color: #FFc300;
+}
+.Reviews3-child h3{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.Reviews3-child p{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 2px;
+    font-size: small;
+    font-weight: light;
+    color: #fff;
+}
+.quick-Parent{
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+.quick-child h2{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    color:#FFc300;
+}
+.practice-Parent{
+    padding: 20px 20px 20px 20px;
+    margin: 20px 50px 20px 20px;
+}
+.radio-child label {
+    text-transform: capitalize;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.check-1{
+    margin: 50px 5px 5px 5px;
+}
+.check label{
+    text-transform: capitalize;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.footer{
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+.footer-1 p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: normal;
+    font-weight: light;
+    word-spacing: 5px;
+    color: #fff;
+}
