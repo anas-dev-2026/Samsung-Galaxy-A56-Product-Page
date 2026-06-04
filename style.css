@@ -49,7 +49,7 @@
 .images-Parent{
     display: inline-block;
     padding: 10px;
-    margin: 10px 10px 10px 10px;  
+    margin: 20px 20px 50px 20px;  
 }
 .child-3 img{
     border: 1px solid #2a2a2a;
@@ -85,7 +85,7 @@
     border-radius: 5px;
     box-shadow: #00000080;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 25px 20px 35px;
 }
 .info-child h3{
     padding: 10px;
@@ -127,7 +127,7 @@
     border-radius: 5px;
     box-shadow: #00000080;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px 50px 20px;
 
 }
 .card-info h3{
@@ -172,7 +172,7 @@
     border-radius: 5px;
     box-shadow: #00000080;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px 50px 20px;
 }
 .card-3-info h3{
     padding: 10px;
@@ -244,7 +244,7 @@
     text-align: center;
     display: inline-block;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px ;
+    margin: 20px 20px 50px 20px ;
     border: 1px solid #2a2a2a;
     border-radius: 5px;
     max-width: 260px;
@@ -341,7 +341,7 @@
     text-align: center;
     display: inline-block;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px 50px 20px;
     border: 1px solid #2a2a2a;
     border-radius: 5px;
     max-width: 260px;
@@ -388,7 +388,7 @@
 .specific-Parent{
     text-align: center;
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 20px 50px 20px;
 }
 .specific-child h2{
     text-align: center;
@@ -412,7 +412,7 @@
     border: 1px solid #2a2a2a;
     box-shadow:#00000080;
     padding: 5px 5px 5px 5px;
-    margin: 20px 20px 35px 20px;
+    margin: 20px 20px 20px 40px;
     border-radius: 5px;
     max-width: 175px;
     min-width: 175px;
@@ -455,7 +455,7 @@
     border: 1px solid #2a2a2a;
     box-shadow:#00000080;
     padding: 5px 5px 5px 5px;
-    margin: 20px 20px 35px 20px;
+    margin: 20px 20px 50px 20px;
     border-radius: 5px;
     max-width: 175px;
     min-width: 175px;
@@ -498,7 +498,7 @@
     border: 1px solid #2a2a2a;
     box-shadow:#00000080;
     padding: 5px 5px 5px 5px;
-    margin: 20px 20px 35px 20px;
+    margin: 20px 20px 50px 20px;
     border-radius: 5px;
     max-width: 175px;
     min-width: 175px;
@@ -541,7 +541,7 @@
     border: 1px solid #2a2a2a;
     box-shadow:#00000080;
     padding: 5px 5px 5px 5px;
-    margin: 20px 20px 35px 20px;
+    margin: 20px 20px 50px 20px;
     border-radius: 5px;
     max-width: 175px;    
     min-width: 175px;
@@ -615,7 +615,7 @@
 .Reviews1-Parent{
     display: inline-block;
     text-align: center;
-    margin: 20px 50px 20px 20px;
+    margin: 50px 50px 50px 50px;
     padding: 20px 20px 20px 20px;
     border-radius: 5px;
     border: 1px solid #2a2a2a;
@@ -648,7 +648,7 @@
 .Reviews2-Parent{
     display: inline-block;
     text-align: center;
-    margin: 20px 50px 20px 20px;
+    margin: 20px 50px 50px 20px;
     padding: 20px 20px 20px 20px;
     border: 1px solid #2a2a2a;
     border-radius: 5px;
@@ -681,7 +681,7 @@
 .Reviews3-Parent{
     display: inline-block;
     text-align: center;
-    margin: 20px 50px 20px 20px;
+    margin: 20px 20px 50px 20px;
     padding: 20px 20px 20px 20px;
     border: 1px solid #2a2a2a;
     border-radius: 5px;
